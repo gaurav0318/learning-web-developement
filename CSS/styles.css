@@ -1,0 +1,50 @@
+/*<style media="screen">
+  body{
+    background-color:pink;
+  }
+
+  hr{
+
+    background-color :powderblue;
+    border-color :grey;
+    border-width: 5px;
+    border-style:dotted none none;
+    height: 2px;
+    width: 5%;
+  }
+
+  img{
+
+    height : 100px;
+  }
+</style>
+*/
+/*********************************TAG SELECTORS**********************/
+h1{color:red;
+   font-size: 200px;
+}
+
+img{
+  background-color: red;
+}
+
+/*******************************CLASS- SELECTORS***********************/
+.bacon{
+  background-color: green;
+}
+
+.brocolli{
+  background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+/*******************************ID- SELECTORS***********************/
+#heading{
+  color:green;
+}
+
+#big{
+    font-size: 1000px;
+}
